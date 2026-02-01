@@ -12,5 +12,9 @@ public static void main(String[] args) {
     System.out.println("Jamuary12345678 ");
     System.out.println("Jamuary123456789 ");
     System.out.println("Jamuary12345678910 ");
+    
+    System.out.println("1");
+    System.out.println("12");
+    System.out.println("123");
 }
 }
